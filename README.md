@@ -1,1 +1,1 @@
-# Mediador-de-IA-Neuro-Inclusivo
+# AdaptaIA
