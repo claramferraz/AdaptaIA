@@ -1,1 +1,1 @@
-# AdaptaIA
+# NeuroBridge
